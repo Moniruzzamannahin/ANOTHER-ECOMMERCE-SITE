@@ -1,0 +1,92 @@
+.container{
+    padding-bottom: 100px;
+}
+.navbar{
+    padding-top: 50px;
+}
+
+.bg-img1{
+    background-image: url("bg-2.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+   
+    
+}
+.bg-img2{
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    
+}
+.carousel-item{
+    align-items: center;
+    padding: 10px 30px;
+}
+.carousel slide{
+    color: blueviolet;
+}
+.Buy-now-btn{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(31, 29, 29) 0, rgb(0, 0, 0) 100%);
+    color: white;
+}
+
+
+.Div1 h4{
+    font-weight: 700;
+    
+}
+.Div1 h5{
+    color: rgb(226, 158, 11);
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    padding: 56px 61px;
+
+}
+.card img{
+    width: 100%;
+}
+
+.div2 hr{
+   width:100%;
+   padding: 3px;
+   color: #FF9C35;
+   align-items: center;;
+
+}
+.sty1{
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 30px;
+    padding: 30px 30px;
+    width: 100%; 
+    text-align: center; 
+    margin-left: -50px; 
+}
+.sty2{
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 30px;
+    padding: 30px 30px;
+    width: 100%; 
+    text-align: center; 
+    
+}
+.sty3{
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 30px;
+    padding: 30px 30px;
+    width: 100%; 
+    text-align: center;  
+    margin-top: 60px;
+    
+}
+.sty4 img{
+    width: 100%;
+}
+
+h6{
+    padding-top: 25px;
+}
